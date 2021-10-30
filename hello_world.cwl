@@ -7,7 +7,7 @@ class: CommandLineTool
 
 hints:
   DockerRequirement:
-    dockerPull: quay.io/biocontainers/python:3.8--1
+    dockerPull: quay.io/wshands/walts_python:latest
 
   InitialWorkDirRequirement:
     listing:
